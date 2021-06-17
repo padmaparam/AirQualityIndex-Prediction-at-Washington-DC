@@ -34,7 +34,7 @@ https://www.epa.gov/outdoor-air-quality-data/air-data-aqi-plot
 <br />Climate Data collection.py - The climate html data for each year is extracted from https://en.tutiempo.net/climate/ws-724050.html (specific to Washington DC) and stored in /Data/html for each year and then for each month.
 <br />AQI Data Collection.ipynb - AQI data is collected for each day from https://www.epa.gov/outdoor-air-quality-data/air-data-aqi-plot.  
 <br />Climate and AQI data from above 2 collections are combined based on each day as a single row and stored in airquality.csv
-<br />CEash model is listed as seperate file in this repository.  
+<br />Eash model is listed as separate file in this repository.  
 
 
 
