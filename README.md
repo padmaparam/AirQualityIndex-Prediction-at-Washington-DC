@@ -30,6 +30,9 @@ https://www.epa.gov/outdoor-air-quality-data/air-data-aqi-plot
 <br />**Modelling**
 <br />Modelling is done with Linear Regression, Randomforest and XGBoost.Hyperparamter tuning is performed using RandomSearch.
 
+![image](https://user-images.githubusercontent.com/67477137/122648674-3683b480-d0f8-11eb-8399-ba29c11a0244.png)
+
+
 <br />**Source code**
 <br />Climate Data collection.py - The climate html data for each year is extracted from https://en.tutiempo.net/climate/ws-724050.html (specific to Washington DC) and stored in /Data/html for each year and then for each month.
 <br />AQI Data Collection.ipynb - AQI data is collected for each day from https://www.epa.gov/outdoor-air-quality-data/air-data-aqi-plot.  
